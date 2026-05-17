@@ -1,8 +1,3 @@
-"""
-train.py — Train a CNN on FashionMNIST and save model.pt
-Run: python train.py
-"""
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
