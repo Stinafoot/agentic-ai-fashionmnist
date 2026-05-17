@@ -24,11 +24,11 @@ The agent follows a structured 4-step tool pipeline:
 ---
 
 ## Tech Stack
-- PyTorch
-- LangGraph
-- LangChain
-- Ollama (local LLM)
-- Python
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-red?logo=pytorch)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Workflows-purple)
+![LangChain](https://img.shields.io/badge/LangChain-LLM_Framework-green)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black)
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 
 ---
 
