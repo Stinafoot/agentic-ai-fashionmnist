@@ -1,4 +1,4 @@
-# Assignment 7 part 2 - Agentic AI System for FashionMNIST
+# Agentic AI System for FashionMNIST
 
 ## Overview
 This project implements an agentic AI workflow using LangGraph and a local LLM via Ollama. The system classifies FashionMNIST images using a CNN and enhances predictions with tool-based reasoning and explanation generation.
